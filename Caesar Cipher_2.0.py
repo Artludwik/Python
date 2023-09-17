@@ -1,3 +1,9 @@
+'''
+The program is a Python version of the Caesar cipher.
+The program takes a message from the user and returns an encrypted message with a numeric key specified by the user.
+The program has 2 functionalities.
+It can both encrypt and decrypt messages encrypted with Caesar cipher.
+'''
 print("""  
 ░█▀▀█ █▀▀█ █▀▀ █▀▀ █▀▀█ █▀▀█ 　 ░█▀▀█ ─▀─ █▀▀█ █──█ █▀▀ █▀▀█
 ░█─── █▄▄█ █▀▀ ▀▀█ █▄▄█ █▄▄▀ 　 ░█─── ▀█▀ █──█ █▀▀█ █▀▀ █▄▄▀
