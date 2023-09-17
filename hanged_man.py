@@ -1,5 +1,5 @@
 '''
-Well known a "Hangman" game.
+Well known a "Hangedman" game.
 Program have capability to start after finished g ame(guess all of the letters or lose a game) as subshell instance on your local maschine.
 Remember to replace hangman_data(words) and hangman_art(stages & logo), your own files.
 Line 63: #remember to switch "hanged_man.py" to your own filename.
